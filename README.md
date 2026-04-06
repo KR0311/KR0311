@@ -1,6 +1,7 @@
 # 🚀 KR0311
 
 Building KR0311 – a custom hosting control panel, homelab infrastructure, and real-world systems.
+Sharing guides, tools, and real deployments.
 
 ---
 
